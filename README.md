@@ -1,1 +1,1 @@
-# -lambda-send-email-aws-ses-golang
+# lambda-send-email-aws-ses-golang
